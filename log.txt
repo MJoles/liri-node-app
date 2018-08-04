@@ -1,0 +1,35 @@
+User Command: C:\Program Files\nodejs\node.exe,C:\Users\mandy\fullStack\liri-node-app\liriTwo.js,Cinderella
+
+LIRI Response:
+
+Usage:
+    node liri.js my-tweets
+    node liri.js spotify-this-song "<song_name>"
+    node liri.js movie-this "<movie_name>"
+    node liri.js do-what-it-says
+
+User Command: C:\Program Files\nodejs\node.exe,C:\Users\mandy\fullStack\liri-node-app\liriTwo.js,movie-thi,Cinderella
+
+LIRI Response:
+
+Usage:
+    node liri.js my-tweets
+    node liri.js spotify-this-song "<song_name>"
+    node liri.js movie-this "<movie_name>"
+    node liri.js do-what-it-says
+
+User Command: C:\Program Files\nodejs\node.exe,C:\Users\mandy\fullStack\liri-node-app\liriTwo.js,movie-thi,Cinderella
+
+LIRI Response:
+
+Usage:
+    node liri.js my-tweets
+    node liri.js spotify-this-song "<song_name>"
+    node liri.js movie-this "<movie_name>"
+    node liri.js do-what-it-says
+
+User Command: node liri.js movie-this Cinderella 
+
+ERROR: Retrieving OMDB entry -- nullUser Command: node liri.js movie-this Cinderella 
+
+ERROR: Retrieving OMDB entry -- null
